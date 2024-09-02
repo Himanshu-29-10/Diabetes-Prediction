@@ -32,7 +32,12 @@ The Pima Indians Diabetes dataset includes the following features:
 ## Usage
 1. Clone the repository.
 2. Install the required Python libraries.
-3. Open the notebook in Jupyter and execute the cells sequentially.
+3. **Run this command on your local machine:**
+
+```bash
+pip install -r requirements.txt
+
+4. Open the notebook in Jupyter and execute the cells sequentially.
 
 ## Conclusion
 This project provides a step-by-step guide on building a machine learning model for diabetes prediction, highlighting the importance of data preprocessing, feature selection, and model evaluation in achieving accurate predictions.
