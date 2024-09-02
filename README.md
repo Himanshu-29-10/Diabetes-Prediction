@@ -33,10 +33,8 @@ The Pima Indians Diabetes dataset includes the following features:
 1. Clone the repository.
 2. Install the required Python libraries.
 3. **Run this command on your local machine:**
-
-  ```bash
-  pip install -r requirements.txt
-
+    ```bash
+    pip install -r requirements.txt
 
 4. Open the notebook in Jupyter and execute the cells sequentially.
 
