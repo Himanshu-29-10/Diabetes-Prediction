@@ -37,6 +37,7 @@ The Pima Indians Diabetes dataset includes the following features:
 ```bash
 pip install -r requirements.txt
 
+
 4. Open the notebook in Jupyter and execute the cells sequentially.
 
 ## Conclusion
