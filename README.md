@@ -9,7 +9,7 @@ This project demonstrates how to preprocess and analyze a medical dataset. It ev
 ## Prerequisites
 - **Python 3.x**
 - **Jupyter Notebook**
-- **Libraries:** pandas, numpy, scikit-learn
+- **Libraries:** pandas, numpy, matplotlib, scikit-learn
 
 ## Dataset
 The Pima Indians Diabetes dataset includes the following features:
